@@ -1,5 +1,5 @@
 
-https://github.com/HarshBalwanix/VITB_Gallery/assets/91670912/0f39e80c-c131-4d3c-b870-b233ea0e9442
+
 # VITB_Gallery
 
 Welcome to VIT Bhopal Gallery! Explore the diverse campus through captivating images showcasing various facilities and iconic spots.Check out the deployed version [here](https://harshbalwanix.github.io/VITB_Gallery/).
